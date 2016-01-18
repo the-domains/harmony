@@ -4,7 +4,7 @@
         <description><![CDATA[Harmony]]></description>
         <link>https://thegrid.ai/harmony/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:16:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harmony/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/harmony/home/index.html</link>
             <guid isPermaLink="false">f12fdc14-e848-4ae3-a405-660bc5ef93b1</guid>
             <pubDate>Mon, 18 Jan 2016 20:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/760cf646-4227-467d-ab09-4fcb550fa2e0.jpg">]]></description>
+            <link>https://thegrid.ai/harmony/5e159ff1-8f22-4a8f-b704-5a99e73fd29f/index.html</link>
+            <guid isPermaLink="false">5e159ff1-8f22-4a8f-b704-5a99e73fd29f</guid>
+            <pubDate>Mon, 18 Jan 2016 20:15:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
