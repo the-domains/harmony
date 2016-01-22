@@ -1,7 +1,7 @@
 name: Harmony
 favicon: null
 layout_spectrum: 0.24269
-typography_spectrum: 0.63452
+typography_spectrum: 0.46489
 title: ' Creating Harmony'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8fb4bc'
     - '#4e8689'
     - '#2e2d29'
-  brandStrength: 0.8125
+  brandStrength: 0.1875
   lightness: 0.9780944334343076
   saturation: 0.6580368916038424
   rhythmicContrast: 0.25
