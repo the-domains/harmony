@@ -1,29 +1,41 @@
-name: Harmony
-favicon: null
-layout_spectrum: 0.24269
-typography_spectrum: 0.46489
 title: ' Creating Harmony'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6580368916038424
+  brandStrength: 0.1875
+  rhythmicContrast: 0.25
   brandColors:
     - '#e1eaf1'
     - '#050507'
     - '#8fb4bc'
     - '#4e8689'
     - '#2e2d29'
-  brandStrength: 0.1875
   lightness: 0.9780944334343076
-  saturation: 0.6580368916038424
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Harmony
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.46489
+layout_spectrum: 0.5017921
