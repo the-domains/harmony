@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Harmony
 favicon: null
+name: Harmony
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.46489
-layout_spectrum: 0.5017921
+layout_spectrum: 0.2419355
